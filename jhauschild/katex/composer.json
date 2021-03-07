@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Render math formulas with katex",
     "homepage": "https://github.com/jhauschild/phpbb-katex",
-    "version": "1.0.0-dev",
+    "version": "1.0.0",
     "time": "2021-03-07",
     "license": "GPL-2.0-only",
     "authors": [
